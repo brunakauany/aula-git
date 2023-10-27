@@ -1,0 +1,15 @@
+Substitua os arrays entradasIn e entradasOut por ArrayList. Segue exemplo de uso do ArrayList:
+
+ArrayList<Integer> lista = new ArrayList<>();
+
+lista.add(10); // adicionar elemento
+
+lista.remove(0); // remover elemento
+
+System.out.println(lista.size()); // tamanho da lista
+
+for (int i = 0; i < lista.size(); i++) {
+
+System.out.println(lista.get(i)); // recuperar elemento
+
+}
